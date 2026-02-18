@@ -38,7 +38,7 @@ Streamlined developer experience with guided workflows and telemetry-based optim
 
 ## 💼 Experience
 
-**Deccan AI** | Product Engineer | 2025  
+**Stealth Mode StartUP** | Product Engineer | 2025  
 **NetApp** | Senior Software Engineer | 2021-2024  
 **Capital One** | Software Engineer | 2019-2021  
 **Nationwide** | Software Engineer | 2018-2019
